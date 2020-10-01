@@ -38,4 +38,6 @@ example
 กลับมาที่ repo หลัก :[this](https://github.com/ODDS-TEAM/html-css-challenge.github.io)
 สร้าง. `PR`
 
+
+หรือจาก PR readme หลักก็ได้นะครับ
 จบบบบบ
